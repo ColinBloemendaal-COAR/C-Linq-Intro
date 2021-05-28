@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bKnTfZky5VuEKQ8uIzmSNpa4hhOCTxvrPWAL83EwxDzK4udevT/6EJGej3uQuMGYqQRPgrJze182xAmnZvOixw==",
+  "dgSpecHash": "udf/l84+kF1Ugw+rYd49K+sz14f4itZNWW65wPuZ4q/y9JN3VSXqTDBG/LF29trrKYj+VoK+5R9TkIbBdgzHCQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Colin Bloemendaal\\source\\repos\\ColinBloemendaal-COAR\\C-Linq-Intro\\Intro\\Intro\\Intro.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\Colin Bloemendaal\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.6\\microsoft.entityframeworkcore.design.5.0.6.nupkg.sha512",
     "C:\\Users\\Colin Bloemendaal\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.6\\microsoft.entityframeworkcore.relational.5.0.6.nupkg.sha512",
     "C:\\Users\\Colin Bloemendaal\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.6\\microsoft.entityframeworkcore.sqlserver.5.0.6.nupkg.sha512",
+    "C:\\Users\\Colin Bloemendaal\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.6\\microsoft.entityframeworkcore.tools.5.0.6.nupkg.sha512",
     "C:\\Users\\Colin Bloemendaal\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Colin Bloemendaal\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\Colin Bloemendaal\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
